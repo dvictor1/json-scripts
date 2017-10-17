@@ -1,0 +1,12 @@
+{
+
+"distributor": "ABC",
+
+"channels":
+    {
+    "id": "1",
+    "playlists": {
+	"playlist_url": "https://test-abc.tv/FS_Alt_2044/F2044/master.m3u8"
+	}
+    }
+}
